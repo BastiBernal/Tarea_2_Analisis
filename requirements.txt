@@ -1,3 +1,7 @@
 matplotlib
 numpy
 pandas
+scikit-learn
+seaborn
+xgboost
+imbalanced-learn
